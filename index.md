@@ -17,6 +17,12 @@ Armed with my [Coding Interviews: Questions, Analysis, & Solutions: Questions, A
 
 ## Days
 
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ## How to set up blog on github
 
 Instructions for setting this blog on github are [here](http://joninvski.github.io/prepare_coding_interview_10_days/how_i_set_up_jekyll_on_github.html) 
