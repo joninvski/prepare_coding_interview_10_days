@@ -13,7 +13,6 @@ tagline: "Setup instructions"
 * git remote  add jekyll git://github.com/plusjade/jekyll-bootstrap.git
 * git fetch jekyll
 * git merge jekyll/master
-* git push
 * edit \_config.yml
 
 Edit the following configurations:
@@ -29,6 +28,5 @@ Edit the following configurations:
     BASE\_PATH : http://joninvski.github.io/prepare\_coding\_interview\_10\_days
     production\_url : http://joninvski.github.io/prepare\_coding\_interview\_10\_days
 
+* git push
 * Open browser at: http://joninvski.github.io/prepare\_coding\_interview\_10\_days/
-
-
