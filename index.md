@@ -13,7 +13,7 @@ Armed with my [Coding Interviews: Questions, Analysis, & Solutions: Questions, A
 
 ## Plan
 
-<iframe width='500' height='300' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0Asa39xtpHa2HdHVHY09RMXdUTVYyWFhwSTRQLVlzbkE&single=true&gid=0&range=B6%3AB16&output=html&widget=true'></iframe>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/spreadsheet/tq?key=0Asa39xtpHa2HdHVHY09RMXdUTVYyWFhwSTRQLVlzbkE&transpose=0&headers=1&range=B6%3AC16&gid=0&pub=1","options":{"titleTextStyle":{"bold":true,"color":"#000","fontSize":16},"vAxes":[{"useFormatFromData":true,"title":"Pages read","minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null},{"useFormatFromData":true,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null}],"title":"Chart title","booleanRole":"certainty","animation":{"duration":0},"legend":"right","annotations":{"domain":{}},"hAxis":{"useFormatFromData":true,"title":"Days","minValue":null,"viewWindowMode":null,"viewWindow":null,"maxValue":null},"tooltip":{},"isStacked":false,"width":450,"height":320},"state":{},"view":{"columns":[{"calc":"emptyString","type":"string","sourceColumn":0},0,{"label":"Done","properties":{"role":"annotation"},"sourceColumn":1}]},"isDefaultVisualization":true,"chartType":"ColumnChart","chartName":"Chart1"} </script>
 
 ## Days
 
