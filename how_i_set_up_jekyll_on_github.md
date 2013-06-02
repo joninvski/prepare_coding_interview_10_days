@@ -6,6 +6,8 @@ tags : [setup]
 ---
 {% include JB/setup %}
 
+# Setup instructions
+
 * Create the prepare\_coding\_interview\_10\_days reposiroty at github
 * git clone "git@github.com:joninvski/prepare\_coding\_interview\_10\_days.git"
 * git checkout --orphan gh-pages
@@ -13,7 +15,7 @@ tags : [setup]
 * git fetch jekyll
 * git merge jekyll/master
 * git push
-* edit _config.yml
+* edit \_config.yml
 
 * Edit the following configurations
 
