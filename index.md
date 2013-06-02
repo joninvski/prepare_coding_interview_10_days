@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Prepare for coding interview in 10 day!
-tagline: Supporting tagline
+title: Prepare for coding interview in 10 days!
+tagline: and hope for the best...
 ---
 {% include JB/setup %}
 
