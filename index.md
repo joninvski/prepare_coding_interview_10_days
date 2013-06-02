@@ -17,13 +17,11 @@ Armed with my [Coding Interviews: Questions, Analysis, & Solutions: Questions, A
 
 ## Days
 
-> <ul class="posts">
->   {% for post in site.posts %}
->     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
->   {% endfor %}
-> </ul>
-
-[Day 1](http://joninvski.github.io/prepare_coding_interview_10_days/lessons/2013/06/02/day1)
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ## How to set up blog on github
 
