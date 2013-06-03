@@ -8,4 +8,4 @@ tagline: So nothing is forgotten...
 
 # TODO 
 1. Check difference between heap and stack
-
+2. Copy notes written in java doc
