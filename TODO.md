@@ -16,7 +16,7 @@ tagline: So nothing is forgotten...
 
 1. Check difference between heap and stack
 
-from http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap answered by answered Jeff Hill
+from [http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap][] answered by answered Jeff Hill
 
     The stack is the memory set aside as scratch space for a thread of execution. When a function is called, a block is reserved on the top of the stack for local variables and some bookkeeping data. When that function returns, the block becomes unused and can be used the next time a function is called. The stack is always reserved in a LIFO order; the most recently reserved block is always the next block to be freed. This makes it really simple to keep track of the stack; freeing a block from the stack is nothing more than adjusting one pointer.
 
