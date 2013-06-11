@@ -9,8 +9,18 @@ tagline: So nothing is forgotten...
 # TODO 
 
 2. Copy notes written in java doc
-3. Check insertsort, quicksort, bubblesort
-4. Make a table with java data structures
+3. Make a table with java data structures
+4. Prepare 5 interviews questions featured in XDA dev
+  1. Tell me about yourself
+        Since little I ... I graduated from XYZ university, worked at ABC during x months on a small team developing. Afterwards I was invited to do an PhD at ...
+  2. Why should we NOT hire you
+        Not eager to learn/research new things. Someone who wants to doesn't want to try new things, stagnant.
+  3. Why should we hire you and not another?
+       Eager to learn. I not be the fastest person in understading many algorithms but I am hard working and I always strive to give my best 
+  4. How do I measure success
+        I measure sucess when I meet the expectation of the team I am interacting with it.
+  5. How did you get along with you last boss
+        ...
 
 # Done
 
