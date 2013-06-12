@@ -38,7 +38,9 @@ Queue - order elements in a FIFO (linked lists are queues)
 Stack - The Stack class implements a last-in-first-out (LIFO) stack of elements.
 
 
-4. Prepare 5 interviews questions featured in XDA dev
+### Personal Questions
+
+1. In every interviews, this questions are always present
   1. Tell me about yourself
         Since little I ... I graduated from XYZ university, worked at ABC during x months on a small team developing. Afterwards I was invited to do an PhD at ...
   2. Why should we NOT hire you
